@@ -1,4 +1,4 @@
-# divar-data-analyst-summercamp-task
+# divar-data-analyst-summercamp-entrance-task
 This repository contains the entrance task submission for Divar's Data Analyst summer camp. The detailed version of the explanation is found in `task.pdf`, which is written in Persian.
 
 ## Dataset Explanation
