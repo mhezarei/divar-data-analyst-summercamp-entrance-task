@@ -1,5 +1,5 @@
 # divar-data-analyst-summercamp-task
-This repository contains the entrance task submission for Divar's Data Analyst summer camp. The detailed version of the explanation is found in `task.pdf,` which is written in Persian.
+This repository contains the entrance task submission for Divar's Data Analyst summer camp. The detailed version of the explanation is found in `task.pdf`, which is written in Persian.
 
 ## Dataset Explanation
 Each user in the Divar application can search a query and receive some results. Then he/she can click on any of the shown results. Results are sorted by Time (and not relevance). This dataset contains the behavior of some users during a specific day. Each row of this dataset is equivalent to an action taken by a user. The columns are explained below:
@@ -29,3 +29,5 @@ In order to estimate user satisfaction, four metrics are introduced below **for 
 
 ## Question 4
 The introduced metrics in the previous question are closely related. To understand the relationship, review the Bernoulli distribution. Using this distribution, can we make a simple model to predict the user's click behavior? Using this model, if we had any of those four metrics, could we calculate an estimate for the other 3? (explain in one page)
+
+`submission.pdf` contains the EDA and answers written in Persian and `submission.ipynb` contains the Python code of each section.
